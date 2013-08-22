@@ -6,9 +6,9 @@ NOTE: This only works in chrome!
 
 2. Copy/paste this:
 ```
-script= document.createElement('script');
-script.type= 'text/javascript';
-script.src= 'https://dl.dropbox.com/u/17903009/topfriends.js';
+script=document.createElement('script');
+script.type='text/javascript';
+script.src='https://rawgithub.com/wjohnson5/FacebookTopFriends/master/topfriends.js';
 document.head.appendChild(script);
 ```
 
